@@ -1,1 +1,5 @@
 /* grieda 必须 */
+.note-serif-sc-font {
+  font-family: 'Noto Serif SC', serif;
+  font-display: swap;
+}
