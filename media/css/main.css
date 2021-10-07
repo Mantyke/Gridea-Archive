@@ -2253,7 +2253,7 @@ h1 small,h2 small,h3 small,h4 small,h5 small,h6 small,.h1 small,.h2 small,.h3 sm
 }
 
 h1,.h1,h2,.h2,h3,.h3 {
-    margin-top: 70px;
+    margin-top: 18px;
     margin-bottom: 9px;
 }
 
@@ -2810,11 +2810,12 @@ pre code {
 
 
 #poem_content{
-    font-family: 'Noto Serif CJK SC', 'Source Han Serif SC', 'Source Han Serif CN', 'Source Han Serif', 'source-han-serif-sc', serif!important;
+   !important;
     font-size:15px;
     margin-bottom: 2em;
-    margin-top: -70px;
+    margin-top: 0px;
     text-align: center;
+    font-family: 'Noto Serif CJK SC', 'Source Han Serif SC', 'Source Han Serif CN', 'Source Han Serif', 'source-han-serif-sc', serif;
 }
 #poem_content h3{
     font-weight: 800;
