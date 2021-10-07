@@ -2156,7 +2156,7 @@ body {
 
 input,button,select,textarea {
     font-size: inherit;
-    font-family: inherit;
+    font-family: 'Noto Serif CJK SC', 'Source Han Serif SC', 'Source Han Serif CN', 'Source Han Serif', 'source-han-serif-sc', serif;
     line-height: inherit;
 }
 
@@ -2242,7 +2242,7 @@ hr {
 h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6 {
     color: inherit;
     font-weight: 400;
-    font-family: inherit;
+    font-family: 'Noto Serif CJK SC', 'Source Han Serif SC', 'Source Han Serif CN', 'Source Han Serif', 'source-han-serif-sc', serif;
     line-height: 1.1;
 }
 
@@ -2253,7 +2253,7 @@ h1 small,h2 small,h3 small,h4 small,h5 small,h6 small,.h1 small,.h2 small,.h3 sm
 }
 
 h1,.h1,h2,.h2,h3,.h3 {
-    margin-top: 18px;
+    margin-top: 70px;
     margin-bottom: 9px;
 }
 
