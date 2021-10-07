@@ -1885,7 +1885,7 @@ pre {
 }
 
 html {
-    font-family: 'Noto Serif CJK SC', 'Source Han Serif SC', 'Source Han Serif CN', 'Source Han Serif', 'source-han-serif-sc', serif;
+    font-family: sans-serif;
     -ms-text-size-adjust: 100%;
     -webkit-text-size-adjust: 100%;
 }
@@ -1967,7 +1967,7 @@ pre {
 
 code,kbd,pre,samp {
     font-size: 1em;
-    font-family: 'Noto Serif CJK SC', 'Source Han Serif SC', 'Source Han Serif CN', 'Source Han Serif', 'source-han-serif-sc', serif;
+	font-family: monospace,monospace;
 }
 
 button,input,optgroup,select,textarea {
@@ -2150,14 +2150,13 @@ body {
     background-color: #fff;
     color: #2c2e2f;
     font-size: 13px;
-    font-family: 'Noto Serif CJK SC', 'Source Han Serif SC', 'Source Han Serif CN', 'Source Han Serif', 'source-han-serif-sc', serif;
+    font-family: 'Noto Serif SC', 'Source Han Serif SC', 'Source Han Serif CN', 'Source Han Serif', 'source-han-serif-sc', serif;
     line-height: 1.42857143;
 }
 
 input,button,select,textarea {
     font-size: inherit;
-    font-family: 'Noto Serif CJK SC', 'Source Han Serif SC', 'Source Han Serif CN', 'Source Han Serif', 'source-han-serif-sc', serif;
-    line-height: inherit;
+    font-family: inherit;
 }
 
 a {
@@ -2242,7 +2241,7 @@ hr {
 h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6 {
     color: inherit;
     font-weight: 400;
-    font-family: 'Noto Serif CJK SC', 'Source Han Serif SC', 'Source Han Serif CN', 'Source Han Serif', 'source-han-serif-sc', serif;
+    font-family: inherit;
     line-height: 1.1;
 }
 
@@ -2519,7 +2518,7 @@ address {
 }
 
 code,kbd,pre,samp {
-    font-family: 'Noto Serif CJK SC', 'Source Han Serif SC', 'Source Han Serif CN', 'Source Han Serif', 'source-han-serif-sc', serif;
+    font-family: 'Noto Serif SC', 'Source Han Serif SC', 'Source Han Serif CN', 'Source Han Serif', 'source-han-serif-sc', serif;
 }
 
 code {
@@ -2686,7 +2685,7 @@ pre code {
     visibility: visible;
     font-weight: 400;
     font-size: 12px;
-    font-family: 'Noto Serif CJK SC', 'Source Han Serif SC', 'Source Han Serif CN', 'Source Han Serif', 'source-han-serif-sc', serif;
+    font-family: 'Noto Serif SC', 'Source Han Serif SC', 'Source Han Serif CN', 'Source Han Serif', 'source-han-serif-sc', serif;
     line-height: 1.4;
     opacity: 0;
     filter: alpha(opacity=0);
@@ -2815,8 +2814,8 @@ pre code {
     margin-bottom: 2em;
     margin-top: 0px;
     text-align: center;
-    font-family: 'Noto Serif CJK SC', 'Source Han Serif SC', 'Source Han Serif CN', 'Source Han Serif', 'source-han-serif-sc', serif;
-}
+    font-family: 'Noto Serif SC', 'Source Han Serif SC', 'Source Han Serif CN', 'Source Han Serif', 'source-han-serif-sc', serif;
+    
 #poem_content h3{
     font-weight: 800;
 } 
