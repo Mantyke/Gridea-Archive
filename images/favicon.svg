@@ -1,14 +1,6 @@
-<svg width="32" height="32" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" style="enable-background:new 0 0 32 32;" version="1.1">
- <title property="dc:title">to haunt</title>
-
- <desc property="dc:description">An icon for "haunt" from the Sharp Corners series on to [icon]. Downloaded from http://www.toicon.com/icons/sharp-corners_haunt by 223.215.121.121 on 2021-10-19. Licensed CC-BY, see http://toicon.com/license/ for details.</desc>
- <metadata>image/svg+xmlShannon E Thomashttp://www.toicon.com/icons/sharp-corners_haunt</metadata>
- <g>
-  <title>background</title>
-  <rect fill="none" id="canvas_background" height="920" width="1790" y="-1" x="-1"/>
- </g>
- <g>
-  <title>Layer 1</title>
-  <path stroke="null" id="svg_1" fill=" #111918" d="m27.494617,24.85616l0,5.627483l-8.04583,0c0,0 5.405648,-0.503439 8.04583,-5.627483zm-22.988086,-11.533123l0,17.160606l8.04583,0l0,-9.195234l4.386127,0c0.128733,-0.360913 0.21149,-0.744814 0.21149,-1.149404c0,-3.168908 2.578114,-5.747021 5.747021,-5.747021c1.886172,0 3.54936,0.92642 4.597617,2.33444l0,-3.402237l-11.494043,-7.663078l-11.494043,7.661929zm22.988086,6.815967c0,5.078068 -4.117166,9.195234 -9.195234,9.195234c-1.676981,0 -3.243619,-0.456314 -4.597617,-1.240207l0,-3.35741c2.539034,0 4.597617,-2.058583 4.597617,-4.597617c0,-2.539034 2.058583,-4.597617 4.597617,-4.597617s4.597617,2.058583 4.597617,4.597617zm-5.747021,0l-1.149404,0l0,1.149404l1.149404,0l0,-1.149404zm3.448213,0l-1.149404,0l0,1.149404l1.149404,0l0,-1.149404zm-9.195234,-18.622648l-6.896426,4.597617l0,-3.216033l-4.597617,0l0,6.281494l-3.893032,2.595355l1.274689,1.912609l14.112386,-9.407874l14.111236,9.407874l1.274689,-1.912609l-15.385926,-10.258433z" class="sharpcorners_een"/>
- </g>
-</svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" version="1.1" id="DESIGNS" x="0px" y="0px" width="32px" height="32px" viewBox="0 0 32 32" style="enable-background:new 0 0 32 32;" xml:space="preserve">
+<title property="dc:title">to navigate</title><desc property="dc:description">An icon for "navigate" from the Stone series on to [icon]. Downloaded from http://www.toicon.com/icons/stone_navigate by 220.246.107.221 on 2021-10-19. Licensed CC-BY, see http://toicon.com/license/ for details.</desc>
+<path class="stone_een" d="M11.39,11.39l3.227,5.993l5.993,3.227l-3.227-5.993L11.39,11.39z M16.707,16.707  c-0.391,0.391-1.024,0.391-1.414,0c-0.391-0.391-0.391-1.024,0-1.414c0.391-0.391,1.024-0.391,1.414,0  C17.098,15.683,17.098,16.317,16.707,16.707z M16,2C8.268,2,2,8.268,2,16s6.268,14,14,14s14-6.268,14-14S23.732,2,16,2z M14,5h0.707  L17,7.293V5h1v4h-0.707L15,6.707V9h-1V5z M21.604,22.281l-7.197-3.875c-0.345-0.186-0.627-0.468-0.813-0.813l-3.875-7.197  C9.484,9.96,9.96,9.484,10.396,9.719l7.197,3.875c0.345,0.186,0.627,0.468,0.813,0.813l3.875,7.197  C22.516,22.04,22.04,22.516,21.604,22.281z" style="fill: #0B1719;"/>
+<metadata><work rdf:about=""><format>image/svg+xml</format><type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/><license rdf:resource="http://creativecommons.org/licenses/by/4.0/"/><attributionname>Shannon E Thomas</attributionname><attributionurl>http://www.toicon.com/icons/stone_navigate</attributionurl></work></metadata></svg>
